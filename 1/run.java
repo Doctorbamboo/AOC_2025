@@ -49,5 +49,6 @@ public class run {
         }
         System.out.println("This is solution to first: " + count);
         System.out.println("Solution to second is: " + (passedTimes + count));
+
     }
 }
